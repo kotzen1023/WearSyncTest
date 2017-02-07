@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="config_color_picker_item_margin">32dp</dimen>
+    <dimen name="content_padding_start">12dp</dimen>
+</resources>

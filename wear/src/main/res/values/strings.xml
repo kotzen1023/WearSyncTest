@@ -1,4 +1,18 @@
 <resources>
     <string name="app_name">WearSyncTest</string>
-    <string name="hello_world">Hello World!</string>
+    <string name="config_color_title">Select a color</string>
+
+    <string name="color_white">White</string>
+    <string name="color_green">Green</string>
+    <string name="color_yellow">Yellow</string>
+    <string name="color_cyan">Cyan</string>
+    <string name="color_magenta">Magenta</string>
+
+    <string-array name="color_array">
+        <item>@string/color_white</item>
+        <item>@string/color_green</item>
+        <item>@string/color_yellow</item>
+        <item>@string/color_cyan</item>
+        <item>@string/color_magenta</item>
+    </string-array>
 </resources>
